@@ -2,7 +2,7 @@
 
 The accompanying source files are the knowledge collection supplied for this local plugin, kept as plain text in `references/` so every entry is fully readable.
 
-- `KineesaGPT Master System Instructions.docx` — legacy source instructions for this migration (original preserved).
+- `CopticGPT Master System Instructions.docx` — master instructions for this skill (original preserved).
 - `Holy Bible_Orthodox Study Bible (English).txt` — Scripture and study notes.
 - `liturgy_of_st_basil.txt`, `liturgy_of_st_cyril.txt`, `liturgy_of_st_gregory.txt` — liturgies.
 - `the-agpia-coptic-to-english-translation.txt` — Agpeya prayers.

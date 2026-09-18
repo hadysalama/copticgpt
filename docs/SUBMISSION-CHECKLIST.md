@@ -6,7 +6,7 @@ Portal: **https://platform.openai.com/plugins** → create a **Skills only** sub
 
 - [x] Plugin bundle: `.codex-plugin/plugin.json` + `skills/copticgpt/` + `skills/coptic-agent/`
 - [x] All reference documents converted to plain text (`.txt`) in `references/` — every entry verified extractable and readable (the old PDFs were removed; the bundle dropped from 38MB to ~5MB)
-- [x] Legacy `KineesaGPT Master System Instructions.docx` preserved (SKILL.md explicitly overrides its identity-concealment instructions)
+- [x] `CopticGPT Master System Instructions.docx` preserved (SKILL.md explicitly overrides its identity-concealment instructions)
 - [x] Logo + composer icon: `assets/coptic-cross.png` (1024×1024 PNG, square)
 - [x] Listing metadata in `plugin.json`: name, displayName, short/long descriptions, category, capabilities, 3 starter prompts (`defaultPrompt`)
 - [x] Author fields updated: `"Hady Sameh Adib Salama"` (was `"Local developer"`)

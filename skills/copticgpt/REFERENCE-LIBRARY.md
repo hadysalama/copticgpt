@@ -15,6 +15,14 @@ The accompanying source files are the knowledge collection supplied for this loc
   establish redistribution licensing — marked REFERENCE-ONLY pending a
   redistribution-rights check before any public release.
 
+- `psalmody-sunday-midnight-praises-copticreader.txt` — Sunday Midnight Praises,
+  Vesper Praises, and Morning Praises (Morning Doxology), transcribed from the
+  publicly viewable English column of the Coptic Reader app (copticreader.org)
+  with the liturgical date set to Sunday, September 20, 2026 (Thoout 10, 1743).
+  Public accessibility does not establish redistribution licensing — marked
+  REFERENCE-ONLY pending a redistribution-rights check before any public
+  release.
+
 Note: the previous `psalmody.pdf` was mostly scanned images with no extractable
 text, so it was replaced with the st-takla.org English text above. Weekday
 (Mon–Sat) Epsalia, Theotokia parts 2–18, doxologies, and seasonal Epsalias are
